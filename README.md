@@ -44,7 +44,6 @@ survivor-game-oop/
 
 ## ⚙️ Instalasi & Menjalankan
 
-### 1. Clone repository
 ```bash
 git clone https://github.com/username/survivor-game-oop.git
 cd survivor-game-oop
